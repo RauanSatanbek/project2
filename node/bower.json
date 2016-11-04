@@ -1,0 +1,24 @@
+{
+  "name": "bower.json",
+  "description": "bower install PACKAGE --save",
+  "main": "bower.json",
+  "keywords": [
+    "123456"
+  ],
+  "authors": [
+    "123"
+  ],
+  "license": "5",
+  "homepage": "4",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
